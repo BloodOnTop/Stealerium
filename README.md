@@ -72,4 +72,3 @@ If you want to build from the source these are the requirements.
  - Builder.exe ([NET Runtime 6.0.*](https://dotnet.microsoft.com/en-us/download/dotnet/6.0))
  - Stub ([NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48))
 x
-
